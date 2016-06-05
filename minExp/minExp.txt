@@ -1,7 +1,0 @@
-input: n
-function: 将n用2的指数表示，使得指数表达式的个数最少
-output: int num (指数的最少的个数)
-e.g: input = 28
-28 = 2^4 + 2^3 +2^2 => num = 3
-28 = 2^5 - 2^2 => num = 28
-output = 2
